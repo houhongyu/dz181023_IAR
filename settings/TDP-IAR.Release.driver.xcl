@@ -1,0 +1,23 @@
+"-p" 
+
+"D:\IAR-2202\stm8\config\ddf\iostm8l052c6.ddf" 
+
+"-d" 
+
+"stlink" 
+
+"--mcuname" 
+
+"STM8L052C6" 
+
+"--verify_download" 
+
+"--log_file" 
+
+"F:\TDP.HOU\µÁ’Î≤‚ Ω-IAR\cspycomm.log" 
+
+"--erase_memory" 
+
+
+
+

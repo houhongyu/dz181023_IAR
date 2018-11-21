@@ -57,15 +57,6 @@ void main(void)
       
       Delay_Timer(150);
       
-      
-      
-      //GPIO_ResetBits(GPIOE, GPIO_Pin_2);
-      //Delay_Timer(80);
-     // 
-      //Delay_Timer(3);
-      //GPIO_ResetBits(GPIOE, GPIO_Pin_2);
-      //Delay_Timer(50);
-      
     }
     //Delay_Timer(50);
    // GPIO_SetBits(GPIOE, GPIO_Pin_1);
